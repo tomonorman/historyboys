@@ -1,4 +1,4 @@
-############################# feature ###################################
+############################# Theatre, Location, Schedule and Tickets ###################################
 feature:
   enable : true
   image : images/about/map00.jpg
@@ -7,6 +7,12 @@ feature:
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
+    - title : チケット
+      icon : ti-ticket # themify icon pack : https://themify.me/themify-icons
+      content : 値段\:<br>
+                こちら[から](#)
+
+      # feature item loop
     - title : スケジュール
       icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
       content : 2022年9月1日〜4日
@@ -14,15 +20,6 @@ feature:
       # feature item loop
     - title : 住所
       icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      content : 〒161-0034 東京都新宿区上落合1-17-9
+      content : 〒161-0034 東京都新宿区上落合1-17-9<br>
                 [TACCS1179](https://haikyo.co.jp/free_space/index.html)
       
-      # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe

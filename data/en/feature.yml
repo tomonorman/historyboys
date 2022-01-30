@@ -1,27 +1,24 @@
-############################# feature ###################################
+############################# Theatre Location, Schedule and Tickets ###################################
 feature:
   enable : true
   image : images/about/map00.jpg
   # image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
+  title : Free Space TACCS 1179
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Tickets
+      icon : ti-ticket # themify icon pack : https://themify.me/themify-icons
+      content : Price\:<br>
+                Available [here](#)
       
       # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Schedule
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : September 1st - 4th, 2022
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Address
+      icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      content : Kamiochiai 1-17-9, Shinjuku, Tokyo 161-0034<br>
+                [TACCS1179](https://haikyo.co.jp/free_space/index.html)

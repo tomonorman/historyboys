@@ -140,8 +140,8 @@ expire_days = 2
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "35.71598956887827"
+map_longitude = "139.6936238188775"
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
@@ -177,7 +177,7 @@ languageCode = "ja-jp"
 contentDir = "content/japanese"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022 Tomo Norman"
 
 ################################ France Language ########################
 [Languages.en]
@@ -186,4 +186,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
 home = "Accueil"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022 Tomo Norman"
