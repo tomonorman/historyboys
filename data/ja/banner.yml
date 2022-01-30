@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  # bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/glasses-1052010_1280.jpeg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "History Boys"
+  content : "間もなく!"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#services"
