@@ -12,17 +12,14 @@ contact:
       
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
       info : "Phone: +880-31-000-000"
-      
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
+         
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+      info : "Email: nagaiworkshopws@gmail.com"
 
 
   # Contact form
   contact_form:
-    enable : true
+    enable : false
     form_action : "#" #contact form works with https://formspree.io
     name : "Your Name"
     email : "Your Email"

@@ -8,5 +8,5 @@ banner:
   content : "Coming Soon!"
   button:
     enable : true
-    label : "Explore Us"
+    label : "Get Tickets"
     link : "#services"

@@ -8,5 +8,5 @@ banner:
   content : "間もなく!"
   button:
     enable : true
-    label : "Explore Us"
-    link : "#services"
+    label : "チケット購入"
+    link : "#tomo"

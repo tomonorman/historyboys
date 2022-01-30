@@ -1,4 +1,4 @@
-{{ if gt (where site.RegularPages "Section" "==" "blog") 0}}
+{{ if gt (where site.RegularPages "Section" "==" "story") 0}}
 {{"<!-- Start Blog Section -->" | safeHTML}}
 <section id="blog" class="section">
 	<div class="container">
@@ -13,15 +13,15 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
-			{{ range first 3 (where site.RegularPages "Section" "==" "blog")}}
+			{{ range first 3 (where site.RegularPages "Section" "==" "story")}}
 			{{ .Render "article"}}
 			{{ end }}
 
 			<div class="all-post text-center col-lg-12">
-				<a class="btn btn-main" href="{{ `blog` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
+				<a class="btn btn-main" href="{{ `story` | absLangURL }}">{{ i18n "viewAllPost" }}</a>
 			</div>
 		</div>
 	</div>
 </section>
-{{"<!-- /blog -->" | safeHTML}}
+{{"<!-- /story -->" | safeHTML}}
 {{ end }}

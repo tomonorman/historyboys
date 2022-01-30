@@ -1,3 +1,4 @@
+/* Default Fonts for Japanese and English Pages */
 
 h1,
 h2,
@@ -8,8 +9,17 @@ h6 {
   font-family: "Anton", sans-serif;
 }
 
-p {
-  font-family: "Fjalla one", sans-serif;
+h2:lang(ja-jp),
+h3:lang(ja-jp),
+h4:lang(ja-jp),
+h5:lang(ja-jp),
+h6:lang(ja-jp) {
+  font-family: "Zen Antique", serif;
+}
+a:lang(ja-jp),p:lang(ja-jp) {
+  font-family: "Zen Antique Soft", serif;
 }
 
-/* Zen Antique Soft, serif */
+a,p {
+  font-family: "Fjalla one", sans-serif;
+}

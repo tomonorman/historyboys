@@ -14,11 +14,7 @@
 		</div>
 		{{ end }}
 		<h1>{{ .title | markdownify }}</h1>
-		{{ if eq $.Site.Language.LanguageName "Jp" }}
-		<p style="font-family: 'Zen Antique Soft, serif';">{{ .content | markdownify }}</p>
-		{{ else }}
 		<p>{{ .content | markdownify }}</p>
-		{{ end }}
 		{{ if .button.enable }}
 		{{ with .button }}
 		<a href="{{ .link }}" class="btn btn-transparent page-scroll">{{ .label }}</a>

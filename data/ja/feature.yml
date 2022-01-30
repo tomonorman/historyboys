@@ -1,21 +1,22 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
+  image : images/about/map00.jpg
+  # image_webp : images/about/about-business-man.webp
+  title : フリースペースTACCS1179
   content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
-      
-      # feature item loop
-    - title : Easy Customization
-      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : スケジュール
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : 2022年9月1日〜4日
 
+      # feature item loop
+    - title : 住所
+      icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      content : 〒161-0034 東京都新宿区上落合1-17-9
+                [TACCS1179](https://haikyo.co.jp/free_space/index.html)
+      
       # feature item loop
     - title : SEO Optimized
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons

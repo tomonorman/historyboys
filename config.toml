@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://sleepy-lamport-30d913.netlify.app/"
-title = "Meghna"
+title = "History Boys Japan"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -11,6 +11,11 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+[markup]
+defaultMarkdownHandler = 'blackFriday'
+[blackFriday]
+hrefTargetBlank = true
+
 
 ############################# Plugins ##########################
 # css plugins
@@ -42,10 +47,6 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 ################### Japanese Navigation ########################
-[[Languages.ja.menu.main]]
-name = "About"
-url = "#about"
-weight = 1
 
 [[Languages.ja.menu.main]]
 name = "services"
@@ -68,7 +69,7 @@ url = "#pricing"
 weight = 5
 
 [[Languages.ja.menu.main]]
-name = "blog"
+name = "Story"
 url = "#blog"
 weight = 6
 
@@ -77,70 +78,42 @@ name = "contact"
 url = "#contact"
 weight = 7
 
-
 [[Languages.ja.menu.main]]
-name = "Dropdown"
-weight = 7
-hasChildren = true
-
-[[Languages.ja.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 1"
-url = "#"
-weight = 1
-
-[[Languages.ja.menu.main]]
-parent = "Dropdown"
-name = "Dropdown 2"
-url = "#"
-weight = 2
-
-[[Languages.ja.menu.main]]
-name = "themefisher"
+name = "Toho"
 url = "https://themefisher.com/"
 weight = 8
 
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "sur"
-url = "#about"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "un service"
+name = "Services"
 url = "#services"
-weight = 2
+weight = 1
 
 [[Languages.en.menu.main]]
 name = "portefeuille"
 url = "#portfolio"
-weight = 3
+weight = 2
 
 [[Languages.en.menu.main]]
 name = "équipe"
 url = "#team"
-weight = 4
+weight = 3
 
 [[Languages.en.menu.main]]
 name = "tarification"
 url = "#pricing"
-weight = 5
+weight = 4
 
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Story"
 url = "#blog"
-weight = 6
+weight = 5
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
-
-[[Languages.en.menu.main]]
-name = "themefisher"
-url = "https://themefisher.com/"
-weight = 8
+weight = 6
 
 ############################# Default Parameters ##########################
 [params]
