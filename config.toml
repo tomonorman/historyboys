@@ -109,7 +109,7 @@ author = "Tomo Norman"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
-post_share = true
+post_share = false
 
 # preloader
 [params.preloader]

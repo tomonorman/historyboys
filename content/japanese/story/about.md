@@ -1,7 +1,6 @@
 ---
 title: "Story"
 date: 2022-02-15
-author: Tomo Norman
 image_webp: images/blog/meghna.webp
 image: images/blog/meghna.jpg
 description : "About The History Boys"

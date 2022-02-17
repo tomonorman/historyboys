@@ -3,7 +3,6 @@ title: "About the Director"
 date: 2022-02-16
 image_webp: images/blog/blog-post-3.webp
 image: images/blog/blog-post-3.jpg
-author: John Doe
 description : "About the History Boys Japan Director"
 ---
 
