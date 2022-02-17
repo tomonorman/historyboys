@@ -22,3 +22,8 @@ feature:
       icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
       content : Kamiochiai 1-17-9, Shinjuku, Tokyo 161-0034<br>
                 [TACCS1179](https://haikyo.co.jp/free_space/index.html)
+      
+      # feature item loop
+    - title : Email
+      icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      content : nagaiworkshopws@gmail.com
