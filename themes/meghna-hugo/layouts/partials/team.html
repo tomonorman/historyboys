@@ -3,7 +3,7 @@
 {{ if $data.team.team.enable }}
 {{ with $data.team.team }}
 {{"<!-- Start Our Team -->" | safeHTML}}
-<section id="team" class="section">
+<section id="cast" class="section">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-12">
@@ -24,8 +24,9 @@
             {{"<!-- member photo -->" | safeHTML}}
             <img class="img-fluid lozad" data-src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
 
-            {{"<!-- member social profile -->" | safeHTML}}
+            {{"<!-- Cast Picture -->" | safeHTML}}
             <div class="mask">
+              <img class="img-fluid lozad" data-src="{{ .imagetwo_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .imagetwo | absURL }}'" alt="{{ .name }}">
               <ul class="list-inline">
                 {{ range .social }}
                 <li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>

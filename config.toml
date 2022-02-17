@@ -49,78 +49,63 @@ link = "plugins/google-map/map.js"
 ################### Japanese Navigation ########################
 
 [[Languages.ja.menu.main]]
-name = "services"
-url = "#services"
+name = "Story"
+url = "#story"
+weight = 1
+
+[[Languages.ja.menu.main]]
+name = "Cast"
+url = "#cast"
 weight = 2
 
 [[Languages.ja.menu.main]]
-name = "portfolio"
-url = "#portfolio"
+name = "Staff"
+url = "#staff"
 weight = 3
 
 [[Languages.ja.menu.main]]
-name = "team"
-url = "#team"
+name = "Tickets & Access"
+url = "#feature"
 weight = 4
-
-[[Languages.ja.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-
-[[Languages.ja.menu.main]]
-name = "Story"
-url = "#blog"
-weight = 6
-
-[[Languages.ja.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 7
 
 [[Languages.ja.menu.main]]
 name = "Toho"
-url = "https://themefisher.com/"
-weight = 8
-
+url = "/"
+weight = 5
 
 ################### English Navigation ########################
-[[Languages.en.menu.main]]
-name = "Services"
-url = "#services"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "portefeuille"
-url = "#portfolio"
-weight = 2
-
-[[Languages.en.menu.main]]
-name = "équipe"
-url = "#team"
-weight = 3
-
-[[Languages.en.menu.main]]
-name = "tarification"
-url = "#pricing"
-weight = 4
 
 [[Languages.en.menu.main]]
 name = "Story"
-url = "#blog"
-weight = 5
+url = "#story"
+weight = 1
 
 [[Languages.en.menu.main]]
-name = "contact"
-url = "#contact"
-weight = 6
+name = "Cast"
+url = "#cast"
+weight = 2
+
+[[Languages.en.menu.main]]
+name = "Staff"
+url = "#staff"
+weight = 3
+
+[[Languages.en.menu.main]]
+name = "Tickets & Access"
+url = "#feature"
+weight = 4
+
+[[Languages.en.menu.main]]
+name = "Toho"
+url = "/"
+weight = 5
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/logo.png"
 # Meta data
-description = "Responsive Multipurpose Parallax Hugo Template"
-author = "Themefisher"
+description = "The History Boys Japan Website"
+author = "Tomo Norman"
 # Google Analytics
 google_analytics_id = "" # Your ID
 # post share
@@ -156,19 +141,6 @@ link = "#"
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "#"
-
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
 
 ################################ Japanese Language ########################
 [Languages.ja]

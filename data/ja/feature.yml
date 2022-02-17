@@ -23,3 +23,7 @@ feature:
       content : 〒161-0034 東京都新宿区上落合1-17-9<br>
                 [TACCS1179](https://haikyo.co.jp/free_space/index.html)
       
+      # feature item loop
+    - title : メール
+      icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      content : nagaiworkshopws@gmail.com

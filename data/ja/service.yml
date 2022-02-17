@@ -1,34 +1,49 @@
 ################################# Service #################################
 service:
   enable : true
-  title : Our Services
+  title : スタッフ
   service_item :
     # service item loop
-    - name : WordPress Theme
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : 企画・翻訳・演出
+      #icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : 永井誠
       
     # service item loop
-    - name : Responsive Design
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : 演出補佐
+      #icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : 豊田昌史
+      
+   # service item loop
+    - name : 美術
+      #icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : 竹邊奈津子
       
     # service item loop
-    - name : Media &amp; Advertisement
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : 音楽監督
+      #icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : 戸谷風太
       
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : 照明
+      #icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : 関口大和(ASG)
       
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : 音響
+      #icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : 秋山斎裕(フリックプロ)
+
+    # service item loop
+    - name : 舞台監督
+      #icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : TBD
       
     # service item loop
-    - name : Networking
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : 制作
+      #icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : 木村菜摘
+
+    # service item loop
+    - name : プロデューサー
+      #icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      content : 田島尚史 (映画演劇文化協会)
