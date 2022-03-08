@@ -6,7 +6,7 @@ theme = "meghna-hugo"
 paginate = "6"
 # post excerpt
 defaultContentLanguage = 'ja'
-summaryLength = "15"
+summaryLength = "2"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
@@ -102,7 +102,7 @@ weight = 5
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logo.png"
+# logo = "images/logo.png"
 # Meta data
 description = "The History Boys Japan Website"
 author = "Tomo Norman"
@@ -157,5 +157,5 @@ languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 2
-home = "Accueil"
+home = "Home"
 copyright = "Copyright &copy; 2022 Tomo Norman"

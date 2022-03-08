@@ -4,7 +4,7 @@ feature:
   image : images/about/map00.jpg
   # image_webp : images/about/about-business-man.webp
   title : フリースペースTACCS1179
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  # content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
   feature_item : 
       # feature item loop
     - title : チケット

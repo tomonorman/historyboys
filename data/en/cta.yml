@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/bg-white-wall.jpg"
   bg_image_webp : "images/backgrounds/bg-white-wall.webp"
-  title : "A Story of Love Loss and Blah Blah Blah"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "History. It's Just One Bloody Thing After Another"
+  content : "The Smash Hit Comedy That Conquered the World"
   button:
     enable : true
     label : "Get Tickets"
-    link : "#contact"
+    link : "#feature"

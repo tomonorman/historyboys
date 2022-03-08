@@ -9,4 +9,4 @@ banner:
   button:
     enable : true
     label : "チケット購入"
-    link : "#tomo"
+    link : "#feature"

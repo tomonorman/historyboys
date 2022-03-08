@@ -9,4 +9,4 @@ banner:
   button:
     enable : true
     label : "Get Tickets"
-    link : "#services"
+    link : "#feature"
