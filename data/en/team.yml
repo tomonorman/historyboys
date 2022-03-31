@@ -1,41 +1,88 @@
 ############################### team ############################
 team:
   enable : true
-  title : Cast
+  title : キャスト
   team_member :
     # cast member loop
-    - name : Coming Soon!
-      image_webp : images/team/team-1.webp
-      image : images/cast/portrait-placeholder.jpg
-      #imagetwo_webp : images/team/team-2.webp
-      imagetwo : images/cast/portrait-placeholder-two.jpeg
-      # designation : Name
-      # content : Coming Soon!
-    
-        
-    # cast member loop
-    - name : Coming Soon!
+    - name : Takuya Fujisaki
       #image_webp : images/team/team-1.webp
-      image : images/cast/portrait-placeholder.jpg
-      #imagetwo_webp : images/team/team-2.webp
-      imagetwo : images/cast/portrait-placeholder-two.jpeg
+      image : images/cast/fujisaki_takuya.jpg
       # designation : Name
       # content : Coming Soon!
-        
+
     # cast member loop
-    - name : Coming Soon!
+    - name : Hitomi Harukaze
       #image_webp : images/team/team-1.webp
-      image : images/cast/portrait-placeholder.jpg
-      #imagetwo_webp : images/team/team-2.webp
-      imagetwo : images/cast/portrait-placeholder-two.jpeg
+      image : images/cast/harukaze_hitomi.jpg
       # designation : Name
       # content : Coming Soon!
-        
+
+    # cast member loop
+    - name : Ryoichi Suzuki
+      #image_webp : images/team/team-1.webp
+      image : images/cast/suzuki_ryoichi.jpg
+      # designation : Name
+      # content : Coming Soon!
+
    # cast member loop
-    - name : Coming Soon!
+    - name : Kota Someya
       #image_webp : images/team/team-1.webp
-      image : images/cast/portrait-placeholder.jpg
-      #imagetwo_webp : images/team/team-2.webp
-      imagetwo : images/cast/portrait-placeholder-two.jpeg
+      image : images/cast/someya_kota.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+  # cast member loop
+    - name : Naoki Inuki
+      #image_webp : images/team/team-1.webp
+      image : images/cast/inukai_naoki.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+    # cast member loop
+    - name : Yuji Takao
+      #image_webp : images/team/team-1.webp
+      image : images/cast/takao_yuuji.jpeg
+      # designation : Name
+      #content : Coming Soon!
+
+    # cast member loop
+    - name : Tsubasa Nakamura
+      #image_webp : images/team/team-1.webp
+      image : images/cast/nakamura_tsubasa.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+   # cast member loop
+    - name : Kenji Kawano
+      #image_webp : images/team/team-1.webp
+      image : images/cast/kawano_kenji.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+    # cast member loop
+    - name : Fuuta Kimura
+      #image_webp : images/team/team-1.webp
+      image : images/cast/kimura_fuuta.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+    # cast member loop
+    - name : Yuta Arakawa
+      #image_webp : images/team/team-1.webp
+      image : images/cast/arakawa_yuta.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+    # cast member loop
+    - name : Hiroto Yasuda
+      #image_webp : images/team/team-1.webp
+      image : images/cast/yasuda_hiroto.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+   # cast member loop
+    - name : Takashi Waki
+      #image_webp : images/team/team-1.webp
+      image : images/cast/waki_takashi.jpg
       # designation : Name
       # content : Coming Soon!

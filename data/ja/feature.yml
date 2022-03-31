@@ -9,8 +9,7 @@ feature:
       # feature item loop
     - title : チケット
       icon : ti-ticket # themify icon pack : https://themify.me/themify-icons
-      content : 値段\:<br>
-                こちら[から](#)
+      content : Coming Soon
 
       # feature item loop
     - title : スケジュール

@@ -1,8 +1,7 @@
 ---
 title: "Origins"
 date: 2022-02-14
-image_webp: images/blog/blog-post-2.webp
-image: images/blog/blog-post-2.jpg
+image: images/blog/origins.webp
 description : "Origin Story"
 ---
 

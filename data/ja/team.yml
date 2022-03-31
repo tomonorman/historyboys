@@ -4,38 +4,85 @@ team:
   title : キャスト
   team_member :
     # cast member loop
-    - name : Coming Soon!
+    - name : 藤崎卓也
       #image_webp : images/team/team-1.webp
-      image : images/cast/portrait-placeholder.jpg
-      #imagetwo_webp : images/team/team-2.webp
-      imagetwo : images/cast/portrait-placeholder-two.jpeg
+      image : images/cast/fujisaki_takuya.jpg
       # designation : Name
       # content : Coming Soon!
-    
-        
+
     # cast member loop
-    - name : Coming Soon!
+    - name : 春風ひとみ
       #image_webp : images/team/team-1.webp
-      image : images/cast/portrait-placeholder.jpg
-      #imagetwo_webp : images/team/team-2.webp
-      imagetwo : images/cast/portrait-placeholder-two.jpeg
+      image : images/cast/harukaze_hitomi.jpg
       # designation : Name
       # content : Coming Soon!
-        
+
     # cast member loop
-    - name : Coming Soon!
+    - name : 鈴木良一
       #image_webp : images/team/team-1.webp
-      image : images/cast/portrait-placeholder.jpg
-      #imagetwo_webp : images/team/team-2.webp
-      imagetwo : images/cast/portrait-placeholder-two.jpeg
+      image : images/cast/suzuki_ryoichi.jpg
       # designation : Name
       # content : Coming Soon!
-        
+
    # cast member loop
-    - name : Coming Soon!
+    - name : 染谷洸太
       #image_webp : images/team/team-1.webp
-      image : images/cast/portrait-placeholder.jpg
-      #imagetwo_webp : images/team/team-2.webp
-      imagetwo : images/cast/portrait-placeholder-two.jpeg
+      image : images/cast/someya_kota.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+  # cast member loop
+    - name : 犬飼直紀
+      #image_webp : images/team/team-1.webp
+      image : images/cast/inukai_naoki.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+    # cast member loop
+    - name : 髙尾勇次
+      #image_webp : images/team/team-1.webp
+      image : images/cast/takao_yuuji.jpeg
+      # designation : Name
+      #content : Coming Soon!
+
+    # cast member loop
+    - name : 中村翼
+      #image_webp : images/team/team-1.webp
+      image : images/cast/nakamura_tsubasa.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+   # cast member loop
+    - name : 河野健治
+      #image_webp : images/team/team-1.webp
+      image : images/cast/kawano_kenji.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+    # cast member loop
+    - name : 木村風太
+      #image_webp : images/team/team-1.webp
+      image : images/cast/kimura_fuuta.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+    # cast member loop
+    - name : 荒川湧太
+      #image_webp : images/team/team-1.webp
+      image : images/cast/arakawa_yuta.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+    # cast member loop
+    - name : 安田啓人
+      #image_webp : images/team/team-1.webp
+      image : images/cast/yasuda_hiroto.jpg
+      # designation : Name
+      # content : Coming Soon!
+
+   # cast member loop
+    - name : 脇卓史
+      #image_webp : images/team/team-1.webp
+      image : images/cast/waki_takashi.jpg
       # designation : Name
       # content : Coming Soon!

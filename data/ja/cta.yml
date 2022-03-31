@@ -6,6 +6,6 @@ cta:
   title : "History. It's Just One Bloody Thing After Another"
   content : "The Smash Hit Comedy That Conquered the World"
   button:
-    enable : true
+    enable : false
     label : "Get Tickets"
     link : "#feature"
