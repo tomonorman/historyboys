@@ -41,7 +41,7 @@ team:
     # cast member loop
     - name : Yuji Takao
       #image_webp : images/team/team-1.webp
-      image : images/cast/takao_yuuji.jpeg
+      image : images/cast/takao_yuji.jpeg
       # designation : Name
       #content : Coming Soon!
 
@@ -62,7 +62,7 @@ team:
     # cast member loop
     - name : Fuuta Kimura
       #image_webp : images/team/team-1.webp
-      image : images/cast/kimura_fuuta.jpg
+      image : images/cast/kimura_futa.jpg
       # designation : Name
       # content : Coming Soon!
 
