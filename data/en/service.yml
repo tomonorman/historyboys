@@ -46,4 +46,4 @@ service:
     # service item loop
     - name : プロデューサー
       #icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : 田島尚史 (映画演劇文化協会)
+      content : 田島尚史(一般社団法人 映画演劇文化協会)

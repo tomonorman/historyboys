@@ -1,12 +1,15 @@
 ---
-title: "About the Director"
+title: "Production"
 date: 2022-02-16
 #image_webp: images/blog/blog-post-3.webp
-image: images/blog/director.jpeg
+image: images/blog/director.jpg
 description : "About the History Boys Japan Director"
 ---
+### 永井企画
 
-### 永井誠（ながいまこと）
+活動目的は「芝居の仲間探し」 永井が気になっているテーマをワークショップ形式で深堀りしていく。 一緒に楽しく真摯に芝居に向き合って高め合う仲間を探している。
+
+##### 永井誠（ながいまこと）
 早稲田大学法学部卒業。東宝演劇部所属。
 
 平成30年度文化庁新進芸術家制度で舞台演出の研修のため１年間ロンドンに留学し、John Caird氏に１年間個別指導を受ける。ロンドンオペラ『Porgy and Bess』(Jean Pierre氏演出)に演出助手として参加し、また演劇学校では演出論や古典を中心に学ぶ。
