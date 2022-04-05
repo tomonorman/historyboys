@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://sleepy-lamport-30d913.netlify.app/"
+baseURL = "https://www.historyboysjapan.com"
 title = "History Boys Japan"
 theme = "meghna-hugo"
 # post pagination
