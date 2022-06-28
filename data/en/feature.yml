@@ -9,7 +9,7 @@ feature:
       # feature item loop
     - title : Tickets
       icon : ti-ticket # themify icon pack : https://themify.me/themify-icons
-      content : Coming Soon
+      content : <br>[Confetti](https://confetti-web.com/thehistoryboys)
       
       # feature item loop
     - title : Schedule

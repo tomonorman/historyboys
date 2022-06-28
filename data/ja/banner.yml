@@ -7,6 +7,6 @@ banner:
   title : "The History Boys"
   content : "2022年9月上演"
   button:
-    enable : false
+    enable : true
     label : "チケット購入"
-    link : "#feature"
+    link : "https://confetti-web.com/thehistoryboys"

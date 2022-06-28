@@ -12,7 +12,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 [markup]
-defaultMarkdownHandler = 'blackFriday'
+defaultMarkdownHandler = 'Goldmark'
 [blackFriday]
 hrefTargetBlank = true
 

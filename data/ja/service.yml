@@ -36,7 +36,7 @@ service:
     # service item loop
     - name : 舞台監督
       #icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : TBD
+      content : 下平慶祐
       
     # service item loop
     - name : 制作

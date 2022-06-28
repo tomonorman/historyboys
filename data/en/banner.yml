@@ -7,6 +7,6 @@ banner:
   title : "The History Boys"
   content : "Coming Soon!"
   button:
-    enable : false
+    enable : true
     label : "Get Tickets"
-    link : "#feature"
+    link : "https://confetti-web.com/thehistoryboys"
