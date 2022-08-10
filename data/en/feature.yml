@@ -15,6 +15,7 @@ feature:
     - title : Schedule
       icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
       content : September 1st - 4th, 2022
+      image: images/schedule.png
 
       # feature item loop
     - title : Address

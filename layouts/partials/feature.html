@@ -26,6 +26,9 @@
 								<div class="media-body">
 									<h4 class="media-heading">{{ .title | markdownify }}</h4>
 									<p>{{ .content | markdownify }}</p>
+									{{ if .image }}
+									<img src="{{ .image | absURL }}" style="width: 100%;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .image | absURL }})'">
+									{{ end }}
 								</div>
 							</div>
 						</div>

@@ -15,6 +15,7 @@ feature:
     - title : スケジュール
       icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
       content : 2022年9月1日〜4日
+      image: images/schedule.png
 
       # feature item loop
     - title : 住所
