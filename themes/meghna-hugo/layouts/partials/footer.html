@@ -6,17 +6,19 @@
 
 				{{"<!-- Footer Social Links -->" | safeHTML}}
 				<div class="social-icon">
+					<div class="text-center" style="margin-bottom: 24px">
+						<a href="https://drive.google.com/file/d/1I_2pQGofxPfnPs6-pyr-7fuulcfQwdL1/view?usp=sharing" target="_blank">公演に関するお知らせ</a>
+					</div>
 					<ul class="list-inline">
 						{{ range site.Params.social }}
 						<li class="list-inline-item"><a href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
 						{{ end }}
 					</ul>
 				</div>
-
 				{{"<!-- copyright -->" | safeHTML}}
 				<div class="copyright text-center">
-					<a href="{{ site.Home.Permalink }}">
-						<img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42" />
+					<a href="{{ site.Home.Permalink }}">History Boys Japan
+						<!-- <img src="{{ site.Params.logo | absURL }}" alt="{{ site.Title }}" height="42" /> -->
 					</a>
 					<br>
 					<p>{{ site.Params.copyright | markdownify }}</p>
